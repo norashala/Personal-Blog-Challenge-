@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e834df;
+    color: #610765;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header, footer {
+    background-color: #c13371;
+    color: #3f0337;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+  }
+  
+  form {
+    background-color: #fa0272;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(213, 5, 5, 0.1);
+  }
+  
+  label, input, textarea, button {
+    display: block;
+    margin-bottom: 10px;
+    width: 100%;
+  }
+  
+  button {
+    background-color: #530303;
+    color: #9b0b99;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .blog {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
